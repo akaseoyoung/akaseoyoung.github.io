@@ -20,7 +20,7 @@ title                    : "My Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SuhYoung"
-description              : "An amazing website."
+description              : "An amazing website by akaseoyoung."
 url                      : "https://akaseoyoung.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,8 +107,8 @@ author:
   name             : "Suh Young"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "South Korea"
+  email            : "think000412@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -122,12 +122,12 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "Nothing Special"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://github.com/akaseoyoung"
+    - label: "Something Going On"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/iolo_sy?igshid=YmMyMTA2M2Y="
 
 # Site Footer
 footer:
