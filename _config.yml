@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "Suh Young"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/profpic.jpg"
   bio              : "I am an **amazing** person."
-  location         : "South Korea"
+  location         : "Seoul, South Korea"
   email            : "think000412@gmail.com"
   links:
     - label: "Email"
